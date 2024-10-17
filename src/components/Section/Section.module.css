@@ -1,0 +1,32 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 800px;
+  margin: 0 auto;
+  gap: 40px;
+}
+
+.titulo{
+  font-size: 2rem;
+  margin-bottom: 10px;
+  color: #050100;
+}
+
+.paragrafo{
+  font-size: 1rem;
+  color: #0e0000;
+}
+
+.lista{
+  list-style-type: disc;
+  margin-bottom: 40px;
+}
+
+.listaItem{
+  font-size: 1.125rem;
+  margin-top: 20px;
+  color: #110007;
+  font-weight: 700;
+}
