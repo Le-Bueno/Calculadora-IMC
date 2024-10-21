@@ -1,0 +1,28 @@
+/* src/Form.css */
+.formulario {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin: auto;
+  }
+  
+  .formulario div {
+    margin-bottom: 15px;
+  }
+  
+  .formulario label {
+    margin-bottom: 5px;
+  }
+  
+  .formulario input {
+    padding: 8px;
+    font-size: 16px;
+  }
+  
+  .formulario button {
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
